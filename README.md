@@ -1,2 +1,5 @@
 # SQL-Samples-MegumiKushida
-My SQL code sample
+## About Me
+- 🛠️ Skilled in SQL and database design.
+- 🚀 Experienced in creating optimized queries and designing efficient database schemas.
+
